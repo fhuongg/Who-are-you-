@@ -26,8 +26,7 @@ Contributions from previous participants must remain visible. As more people int
 
 ## 2. Technical Architecture
 
-### 2.1. Selected Approach: Option A — External TouchDesigner Visual Output
-
+### 2.1. Selected Approach: 
 The project uses two separate visual systems:
 
 **A. Three.js / WebXR — VR Interaction**
