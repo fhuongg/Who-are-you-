@@ -1,8 +1,5 @@
 {
   "dependencies": {
     "sentiment": "^5.0.2"
-  },
-  "scripts": {
-    "build": "vite build"
   }
 }
